@@ -19,4 +19,4 @@ Load: When you are on the main screen of the terminal, you just have to type the
 
 Save: You just have to type New, and it will purpose you to create a new save.
 
-<img>https://cdn.discordapp.com/attachments/885117890884423710/899736371466489896/unknown.png</img>
+![Screenshot](https://cdn.discordapp.com/attachments/885117890884423710/899736371466489896/unknown.png)
