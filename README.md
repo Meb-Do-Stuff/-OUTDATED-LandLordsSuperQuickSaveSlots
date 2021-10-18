@@ -1,5 +1,7 @@
 This software is a none-gui software for use multi-saves.
 
+![Screenshot](https://cdn.discordapp.com/attachments/885117890884423710/899736371466489896/unknown.png)
+
 <h1>HOW TO DO YOUR FIRST SAVE:</h1>
 
 1 - Open the software
@@ -18,5 +20,3 @@ It will create a `savename.meblikea` in the Landlor's Super save folder, and a `
 Load: When you are on the main screen of the terminal, you just have to type the name of the save you want to load.
 
 Save: You just have to type New, and it will purpose you to create a new save.
-
-![Screenshot](https://cdn.discordapp.com/attachments/885117890884423710/899736371466489896/unknown.png)
